@@ -1,6 +1,6 @@
-# 🎴 MIFARE Hack Tool - GUI Edition
+# 🎴 KY Hack Tool - GUI Edition
 
-**Interfaccia grafica avanzata per la clonazione e l'analisi di carte MIFARE Classic 1K**, realizzata con Python + Tkinter e supporto ai tool più noti: `mfoc`, `mfcuk`, `mfoc-hardnested`, `mikai`.
+**Interfaccia grafica avanzata per lo studio e l'analisi di chiavettame vario**, realizzata con Python + Tkinter e supporto ai tool più noti: `mfoc`, `mfcuk`, `mfoc-hardnested`, `mikai`.
 
 ---
 
